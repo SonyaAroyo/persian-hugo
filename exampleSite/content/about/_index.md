@@ -16,6 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna jus
 <br>
 
 ## My Education
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
 
 * Et ipsum euismod et aenean duis.
@@ -26,18 +27,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna jus
 <br>
 
 ## My Hobbies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
 
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
+I'm passionate about coaching; learning and development from early childhood to old ages, management and motivation.
 
-<br>
-<br>
+I also love cooking, hiking and wild nature.
 
 ## My Experiences
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
 
-1. Et ipsum euismod et aenean duis.
-2. Mate ipsum euismod nulla et diam.
-3. Rio euismod nulla et aenean diam konta.
+I am an experienced and passionate HR professional, based in Sofia, Bulgaria.  Experience encompasses organizational development of a Company: Assessing the organizational culture, structure, expertise in accordance with the desirable vision;  Creating e competency frameworks, Job descriptions; Recruitment plan and procedure;  Training plan and procedure; KPI's; Personal assessment and further development plans.
+
+I will be glad if I can help you with who I am!

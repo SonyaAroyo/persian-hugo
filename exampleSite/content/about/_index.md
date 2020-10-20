@@ -7,6 +7,7 @@ description: 'I am an experienced and passionate HR professional, based in Sofia
   vision;  Creating e competency frameworks, Job descriptions; Recruitment plan and
   procedure;  Training plan and procedure; KPI''s; Personal assessment and further
   development plans. I will be glad if I can help you with who I am!'
+draft: true
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum.

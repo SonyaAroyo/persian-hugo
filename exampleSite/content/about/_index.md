@@ -37,3 +37,5 @@ I also love cooking, hiking and wild nature.
 I am an experienced and passionate HR professional, based in Sofia, Bulgaria.  Experience encompasses organizational development of a Company: Assessing the organizational culture, structure, expertise in accordance with the desirable vision;  Creating e competency frameworks, Job descriptions; Recruitment plan and procedure;  Training plan and procedure; KPI's; Personal assessment and further development plans.
 
 I will be glad if I can help you with who I am!
+
+:)
